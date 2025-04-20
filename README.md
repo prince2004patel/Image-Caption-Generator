@@ -128,10 +128,10 @@ The current accuracy and BLEU scores are not very high because:
 ## Some Screenshot of Work
 
 ![](screenshot/result_1_1.png)
+![](screenshot/result_2.png)
+
 ![](screenshot/result_1_2.jpg)
 ![](screenshot/result_1_3.png)
-
-![](screenshot/result_2.png)
 
 ## 📚 References
 
