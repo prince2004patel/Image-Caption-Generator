@@ -26,3 +26,10 @@ if uploaded_file:
 
     st.success("Generated Caption:")
     st.markdown(f"### {caption}")
+
+st.markdown("""
+        ---
+        <p style="text-align:center; font-size:20px; color:#00bfff;">
+            Made by <a href="https://github.com/prince2004patel" style="color:#00bfff; text-decoration:none;"><b>Prince Patel</b></a>
+        </p>
+    """, unsafe_allow_html=True)
