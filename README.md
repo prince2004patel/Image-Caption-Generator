@@ -129,6 +129,7 @@ The current accuracy and BLEU scores are not very high because:
 
 ![](screenshot/result_1_1.png)
 ![](screenshot/result_1_2.png)
+![](screenshot/result_1_3.png)
 
 ![](screenshot/result_2.png)
 
