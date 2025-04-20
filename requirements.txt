@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+pillow
+tqdm
+nltk
+spacy
+streamlit
